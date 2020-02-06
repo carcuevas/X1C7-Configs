@@ -1,5 +1,7 @@
 # X1C7 Custom files
 
+Last kernel tested 5.5.0
+
 
 ## Some extras ...
 
