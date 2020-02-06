@@ -15,3 +15,7 @@ Last kernel tested 5.5.0
 
 ## Some extras ...
 * thinkfan configuration added
+* My working undervolting values for i7-10710U 
+
+
+
