@@ -14,8 +14,12 @@ Last kernel tested 5.5.0
 
 
 ## Some extras ...
-* thinkfan configuration added
-* My working undervolting values for i7-10710U 
+* thinkfan configuration added (thinkfan.conf for thinkfan)
+* My working undervolting values for i7-10710U  (lenovo-fix.cfg for throttled)
 
+
+* Information about the installation and configuration of **Thinkfan** https://gist.github.com/Yatoom/1c80b8afe7fa47a938d3b667ce234559
+
+* Information about the installation and configuration of **throttled** https://github.com/erpalma/throttled
 
 
