@@ -13,6 +13,8 @@ Last kernel tested 5.5.0
 * Also cryptsetup is working
 * bluetooth mouse/keyboard working
 * Another small changes... 
+* USB-C hub with RTL8153 Gigabit LAN working
+* USB Dac working
 
 
 ## Some extras ...
