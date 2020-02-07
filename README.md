@@ -9,7 +9,9 @@ Last kernel tested 5.5.0
 * squashFS for snap
 * Up to 12 threads for i7-10710U
 * btrfs,xfs also active as a module
+* nfs client also working
 * Also cryptsetup is working
+* bluetooth mouse/keyboard working
 * Another small changes... 
 
 
