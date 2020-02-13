@@ -15,7 +15,7 @@ Last kernel tested 5.5.2
 * Another small changes... 
 * USB-C hub with RTL8153 Gigabit LAN working
 * USB Dac working
-
+* Veracrypt is working
 
 ## Some extras ...
 
@@ -29,9 +29,16 @@ Last kernel tested 5.5.2
 * Information about the installation and configuration of **throttled** https://github.com/erpalma/throttled
 
 
+
 # DISCLAIMER 
 
 **Please use as your own risk**, for me things are working but that does not mean that it will work for you... 
 Overall be specially careful when adjusting Throtlled and Thinkpan, my configurations are working for me... 
 
+
+## For compiling the kernel in debian as deb packages:
+
+```
+make -j`nproc` bindeb-pkg
+```
 
