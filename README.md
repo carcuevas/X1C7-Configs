@@ -16,6 +16,7 @@ Last kernel tested 5.5.2
 * USB-C hub with RTL8153 Gigabit LAN working
 * USB Dac working
 * Veracrypt is working
+* Support for PPP
 
 ## Some extras ...
 
