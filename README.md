@@ -1,6 +1,6 @@
 # X1C7 Custom files
 
-Last kernel tested 5.5.2
+Last kernel tested 5.5.8
 
 
 ## Some new additions ...
@@ -17,6 +17,7 @@ Last kernel tested 5.5.2
 * USB Dac working
 * Veracrypt is working
 * Support for PPP
+* Prepared for WireGuard
 
 ## Some extras ...
 
