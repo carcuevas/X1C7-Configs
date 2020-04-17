@@ -18,6 +18,7 @@ Last kernel tested 5.6.3
 * Veracrypt is working
 * Support for PPP
 * WireGuard working
+* vmplayer modules vmsock compiled.
 
 ## Some extras ...
 
